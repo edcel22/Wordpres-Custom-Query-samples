@@ -41,7 +41,7 @@
 						),
 						array (
 							'taxonomy' => 'genre', //custom taxonomy tags
-							'field'	=> 'name',// pwede id , slug , name
+							'field'	=> 'name',// pwede id, slug, name
 							'terms' => array('horror'),
 							'include_children' => true,
 							'operator' => 'IN'	
